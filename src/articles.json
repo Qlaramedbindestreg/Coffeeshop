@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "title": "Wonderful Copenhagen 2021",
+    "published": "12/07/2021",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio aliquid beatae illo repellendus ullam, voluptatibus voluptatem nostrum laborum!",
+    "image": "Postthumbnail-1.png"
+  },
+  {
+    "id": 2,
+    "title": "The most expensive coffee on the market",
+    "published": "12/07/2021",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi aspernatur odit, perspiciatis asperiores magni sit doloribus ex eveniet dolorum id!",
+    "image": "Postthumbnail-2.png"
+  },
+  {
+    "id": 3,
+    "title": "10 types of coffee beans you need to know",
+    "published": "12/07/2021",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni deleniti magnam facilis! Excepturi, reprehenderit veniam itaque asperiores!",
+    "image": "Postthumbnail-3.png"
+  },
+  {
+    "id": 4,
+    "title": "Challenge your barista skills to the max",
+    "published": "12/07/2021",
+    "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime molestias magnam beatae rem facere, asperiores est assumenda suscipit!",
+    "image": "Postthumbnail-4.png"
+  },
+  {
+    "id": 5,
+    "title": "Exploring the coffee culture in Italy",
+    "published": "12/08/2021",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.",
+    "image": "Postthumbnail-1.png"
+  },
+  {
+    "id": 6,
+    "title": "The art of making espresso",
+    "published": "12/08/2021",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.",
+    "image": "Postthumbnail-2.png"
+  },
+  {
+    "id": 7,
+    "title": "Top 5 coffee shops in New York",
+    "published": "12/08/2021",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.",
+    "image": "Postthumbnail-3.png"
+  },
+  {
+    "id": 8,
+    "title": "How to brew the perfect cup of coffee",
+    "published": "12/08/2021",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.",
+    "image": "Postthumbnail-4.png"
+  },
+  {
+    "id": 9,
+    "title": "The history of coffee",
+    "published": "12/09/2021",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.",
+    "image": "Postthumbnail-1.png"
+  },
+  {
+    "id": 10,
+    "title": "Coffee and health benefits",
+    "published": "12/09/2021",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.",
+    "image": "Postthumbnail-2.png"
+  },
+  {
+    "id": 11,
+    "title": "Different brewing methods",
+    "published": "12/09/2021",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.",
+    "image": "Postthumbnail-3.png"
+  },
+  {
+    "id": 12,
+    "title": "Coffee in popular culture",
+    "published": "12/09/2021",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.",
+    "image": "Postthumbnail-4.png"
+  },
+  {
+    "id": 13,
+    "title": "Sustainable coffee farming",
+    "published": "12/10/2021",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.",
+    "image": "/posts/Postthumbnail-1.png"
+  },
+  {
+    "id": 14,
+    "title": "The rise of specialty coffee",
+    "published": "12/10/2021",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.",
+    "image": "Postthumbnail-2.png"
+  },
+  {
+    "id": 15,
+    "title": "Coffee and technology",
+    "published": "12/10/2021",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.",
+    "image": "Postthumbnail-3.png"
+  }
+]
+
