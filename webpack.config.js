@@ -39,7 +39,10 @@ module.exports = {
       },
       {
         test: /\.json$/,
-        use: ['json-loader'],
+        type: 'asset/resource',
+        generator: {
+          filename: 'assets/data/[name][ext]',
+        },
       },
       {
         test: /\.css$/i,
