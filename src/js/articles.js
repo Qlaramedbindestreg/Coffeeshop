@@ -16,7 +16,7 @@ let posts = [];
 
 
 const loadImage = (imagePath) => {
-  return `/assets/posts/${imagePath}`; 
+  return `/assets/images/${imagePath}`; 
 };
 
 
