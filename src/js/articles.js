@@ -1,4 +1,4 @@
-import '../articles.json';
+import fetchJson from '../articles.json';
 
 const leftSection = document.querySelector('.left-section');
 const previousButton = document.querySelector('.previous');
@@ -90,7 +90,7 @@ const displayPosts = (page) => {
 // fetch
 const fetchPosts = async () => {
   try {
-    const response = await fetch('../articles.json');
+    const response = await fetch(fetchJson);
     if (!response.ok) {
       throw new Error('Failed to fetch posts');
     }
