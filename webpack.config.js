@@ -39,7 +39,7 @@ module.exports = {
       },
       {
         test: /\.json$/,
-        type: 'json',
+        use: ['json'],
       },
       {
         test: /\.css$/i,
