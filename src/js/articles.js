@@ -1,4 +1,4 @@
-import fetchJson from '../articles.json';
+const fetchJson = require('../articles.json');
 
 const leftSection = document.querySelector('.left-section');
 const previousButton = document.querySelector('.previous');
