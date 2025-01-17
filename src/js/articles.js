@@ -1,5 +1,8 @@
 const fetchJson = require('../articles.json');
-
+require("../assets/posts/Postthumbnail-1.png")
+require("../assets/posts/Postthumbnail-2.png")
+require("../assets/posts/Postthumbnail-3.png")
+require("../assets/posts/Postthumbnail-4.png")
 const leftSection = document.querySelector('.left-section');
 const previousButton = document.querySelector('.previous');
 const nextButton = document.querySelector('.next');
