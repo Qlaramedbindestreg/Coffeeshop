@@ -38,6 +38,10 @@ module.exports = {
         use: ['style-loader', 'css-loader', 'sass-loader'],
       },
       {
+        test: /\.json$/,
+        type: 'json',
+      },
+      {
         test: /\.css$/i,
         use: [
           'style-loader',
