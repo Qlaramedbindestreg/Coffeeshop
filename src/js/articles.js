@@ -1,3 +1,5 @@
+import '../articles.json';
+
 const leftSection = document.querySelector('.left-section');
 const previousButton = document.querySelector('.previous');
 const nextButton = document.querySelector('.next');
