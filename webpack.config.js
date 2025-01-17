@@ -39,7 +39,7 @@ module.exports = {
       },
       {
         test: /\.json$/,
-        use: ['json'],
+        use: ['json-loader'],
       },
       {
         test: /\.css$/i,
