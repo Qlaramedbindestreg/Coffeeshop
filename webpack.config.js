@@ -2,15 +2,11 @@ const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-
-  entry: {
-    index: './src/js/index.js'
-  },
+  entry: './src/index.js',
   output: {
-    filename: '[name].bundle.js',
-    path: path.resolve(__dirname, 'docs'),
-    clean: true,
-     publicPath: '/Coffeeshop/'
+    path: path.resolve(__dirname, 'dist'),
+    filename: 'bundle.js',
+    publicPath: '/Coffeeshop/'
   },
   devtool: 'source-map',
   module: {
@@ -63,24 +59,12 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      template: './src/html/index.html',
-      inject: true,
-      chunks: ['index'],
-      filename: 'index.html',
+      template: './src/index.html'
     })
   ],
   devServer: {
-    static: [
-      {
-        directory: path.resolve(__dirname, 'public'),
-        publicPath: '/',
-      },
-      {
-        directory: path.resolve(__dirname, 'src'),
-      },
-    ],
-    port: 8081,
-    hot: true,
-    open: true,
-  },
+    contentBase: path.join(__dirname, 'dist'),
+    compress: true,
+    port: 9000
+  }
 };
